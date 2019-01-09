@@ -1,3 +1,0 @@
-# cardosoray.github.io
-
-blog
